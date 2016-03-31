@@ -1,0 +1,32 @@
+PODS:
+  - AFNetworking (3.0.4):
+    - AFNetworking/NSURLSession (= 3.0.4)
+    - AFNetworking/Reachability (= 3.0.4)
+    - AFNetworking/Security (= 3.0.4)
+    - AFNetworking/Serialization (= 3.0.4)
+    - AFNetworking/UIKit (= 3.0.4)
+  - AFNetworking/NSURLSession (3.0.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.0.4)
+  - AFNetworking/Security (3.0.4)
+  - AFNetworking/Serialization (3.0.4)
+  - AFNetworking/UIKit (3.0.4):
+    - AFNetworking/NSURLSession
+  - JSPatch (0.2):
+    - JSPatch/Core (= 0.2)
+  - JSPatch/Core (0.2)
+  - MySlider (0.8.5):
+    - AFNetworking
+    - JSPatch
+
+DEPENDENCIES:
+  - MySlider
+
+SPEC CHECKSUMS:
+  AFNetworking: a0075feb321559dc78d9d85b55d11caa19eabb93
+  JSPatch: 23dcceeec8f8357644f8ef70eb002ef2dbd830de
+  MySlider: a866a1abf6dca7da623d80a0ddd1403ae1b1c0de
+
+COCOAPODS: 0.39.0
